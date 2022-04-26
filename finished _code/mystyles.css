@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+body{
+    font-family: 'Questrial', sans-serif;
+
+}
+
+#boxes{
+    background-image: url("full-bloom.png");
+}
+
+header{
+    background-image: url("curls.png");
+}
